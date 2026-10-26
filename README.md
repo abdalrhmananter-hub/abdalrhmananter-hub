@@ -17,7 +17,7 @@
 - Hands-on with **RESTful APIs**, **JWT authentication (HttpOnly cookies)**, **performance optimization**, and **cloud deployment on AWS**.
 - Graduate of the **Digilians AI-Based Software Development** diploma (Digital Egypt Pioneers Initiative) and **Mechatronics Engineering** graduate.
 - Currently an intern at the **Ministry of Justice, Egypt**, developing the ROC project across frontend and backend.
-- Open to **Junior Full Stack Developer / Entry-Level Software Engineer** roles.
+  
 
 ## Tech Stack
 
