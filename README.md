@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Place the attached image at ./assets/banner.jpeg in your profile repository -->
-<img src="./assets/banner.jpeg" alt="Hello, I am Abdelrahman Mohamed Antar" width="720" />
+<img src="./assets/banner.svg" alt="Hello, I am Abdelrahman Mohamed Antar" width="720" />
 
 **Full Stack Engineer | React · Node.js · MongoDB · AWS**
 
